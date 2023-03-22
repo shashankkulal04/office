@@ -1,0 +1,3203 @@
+@media (min-width: 320px) and (max-width: 767px){
+
+
+    select.products {
+
+
+    margin-bottom: 41px;
+
+
+    margin-left: 0 !important;
+
+
+}
+
+
+form.container.mt-5 label {
+
+
+    display: flex;
+
+
+    font-size: 15px;
+
+
+    margin-left: 0px;
+
+
+}
+
+
+.range-wrap {
+
+
+    margin-right: 23px;
+
+
+    float: none;
+
+
+    width: auto;
+
+
+    position: relative;
+
+
+}
+
+
+.customecal {
+
+
+    margin-top: 8% !important;
+
+
+    margin-left: 24px;
+
+
+}
+
+
+p.nocost {
+
+
+    width: 45%;
+
+
+    margin-left: -5px !important;
+
+
+    display: inline-block;
+
+
+}
+
+p.cost {
+
+
+    display: inline-block;
+}
+
+
+.bottemp .range-wrap {
+
+
+    margin-right: 19px;
+
+
+    width: auto;
+
+
+}
+
+p#detail {
+
+
+  margin-bottom: 0;
+
+
+    display: inline-block;
+
+
+    margin-left: 25% !important;
+
+
+}
+
+
+p#ye {
+
+    display: inline-block;
+
+
+}
+
+
+p#Monthlyent {
+
+    display: inline-block;
+
+
+  margin:10px 0px;
+
+}
+
+
+button#showfrom p {
+
+
+    color: white;
+
+
+    background: #50c3e0;
+
+
+    padding: 10px;
+
+
+    display: flex;
+
+
+    border: 1px solid #50c3e0;
+
+
+    width: auto;
+
+
+    justify-content: center;
+
+
+}
+
+
+p.lessgranttext {
+
+
+    margin-left: -13px !IMPORTANT;
+
+
+    display: inline-block;
+
+
+}
+
+
+p#detailto {
+
+
+  margin-bottom: 9px;
+
+
+    margin-left: 25% !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p.yetext {
+
+
+    width: 53%;
+
+
+    display: inline-block;
+
+
+    margin-left: -9px !important;
+
+
+}
+
+
+p.dic {
+
+
+    margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+    width: 51%;
+
+
+}
+
+
+p#upfrontpaymentto {
+
+
+    margin-left: 25% !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p.dictext {
+
+
+    width: 50%;
+
+
+    margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p#detailone {
+
+
+    width: 48%;
+
+
+    margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+input#rangey {
+
+
+    width: 100%;
+
+
+    background: cornflowerblue;
+
+
+    height: 4px;
+
+
+    border-radius: 40px;
+
+
+}
+
+
+input#email {
+
+
+    margin-left: 0;
+
+
+}
+
+
+input#name {
+
+
+    margin-left: 0;
+
+
+}
+
+
+  }
+
+@media (min-width: 320px) and (max-width: 484px){
+
+
+  p#detailone {
+
+
+    width: auto;
+
+
+    margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px){
+
+
+div#Calc {
+
+
+    border-right: none;
+
+
+    width: 500px;
+
+
+    float: left;
+
+
+}
+
+
+}
+
+
+@media(min-width: 320px) and (max-width: 499px){
+
+
+p#upfrontpaymentto {
+
+
+    margin-left: 25% !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+}
+
+
+@media (min-width: 320px) and (max-width: 412px){
+
+
+  p#finance {
+
+
+    margin-left: 31px !important;
+
+
+    border: 1px solid black;
+
+
+    display: inline-block;
+
+
+    padding: 10px;
+
+
+    font-size: 16px;
+
+
+}
+
+
+}
+
+
+@media (min-width: 320px) and (max-width: 991px){
+
+
+.leftsidee {
+
+
+    margin-right: auto !important;
+
+
+    padding: 7px;
+
+
+    border: 1px solid;
+
+
+    float: right;
+
+
+    height: 322px;
+
+
+    width: 100%;
+
+
+    margin-top: 0;
+
+
+}
+
+
+}
+
+
+.rightimg {
+
+    background-image: url(https://mysolar.cleverdigital.ie/wp-content/uploads/2022/08/Screenshot_6.png) !important;
+
+    background-repeat: no-repeat;
+
+    position: relative;
+
+    background-size: cover;
+
+}
+
+.home-calculator .form-check input[type=radio] {
+
+    padding: 0.5em;
+
+    -webkit-appearance: none;
+
+    outline: none;
+
+    outline-offset: 0.1em;
+
+}
+
+.rightpr {
+
+    display: none !important;
+
+}
+
+.leftsidee {
+
+    display: none !important;
+
+}
+
+p#lessgrant {
+
+    margin: 0px;
+
+}
+
+p#clientgrossbo {
+
+    margin-right: 0;
+
+}
+
+
+.country-drop .form-select {
+
+
+  height: auto !important;
+
+
+    border: solid 1px #c5c5c5 !important;
+
+    color: #202020;
+
+    border-radius: 0px;
+
+    padding: 10px;
+
+}
+
+@media (min-width: 1400px){
+
+
+body.page-template-default.page.page-id-609.logged-in.admin-bar.wp-embed-responsive.porto-breadcrumbs-bb.full.blog-1.elementor-default.elementor-kit-9.elementor-page.elementor-page-609.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+
+    max-width: 1320px;
+}
+}
+
+/* p#nett {
+    margin-right: 0;
+
+} */
+p#cod {
+    margin-right: 0;
+}
+p#clientgrossbo {
+
+    display: inline-block;
+}
+p#cod {
+    display: inline-block;
+}
+
+p#nett {
+  margin-left: 4px;
+  margin-right: 4px;
+    display: inline-block;
+}
+p#clientgrossbo {
+    display: inline-block;
+    text-decoration: line-through;
+        display: none !important;
+}
+.col-sm-4.finato {
+    padding-top: 7px;
+}
+.leftimg #products {
+    margin: 0px;
+    width: 100%;
+}
+p#lessgranto {
+
+  font-size: 13px;
+
+    margin-right: 0;
+
+    margin-left: 3px;
+
+    display: inline-block;}
+
+p#c {
+
+  font-size: 26px;
+
+    margin-right: 0;
+
+    display: inline-block;
+
+    margin-top: 4px;}
+
+p#cld {
+
+    display: inline-block;
+
+}p#Monthlyentto {    display: inline-block;}.col-sm-6.tct {
+
+  font-size: 12px;
+
+    margin-top: 9px;
+
+} 
+
+p#sveid {
+
+  color: #39b54a;
+
+  font-size: initial;
+
+  margin-left: 3px;
+
+    margin-right: 0px;
+
+    display: inline-block !important;
+
+}
+
+p#save {
+
+  font-size: initial;
+
+    margin-left: 2px;
+
+    display: none !important;
+
+    margin-right: 3px;
+
+    color: #39b54a;
+
+}
+
+.customtex.upcoast {
+
+    display: none !important;
+
+}
+
+.col-sm-6.txt-right.customtex {
+
+    font-size: 12px;
+
+}
+
+p#cto {
+
+    display: inline-block;
+
+}
+
+p#seli {
+
+     visibility: hidden;
+
+}
+
+.smalltxt2 {
+
+    font-size: 16px !important;
+    font-style:italic;
+}
+
+span.star.to {
+
+    font-size: 16px !important;
+
+}
+
+p#finalv {
+
+    display: none;
+
+    font-size: 16px;
+
+    margin-right: 0;
+
+    margin-left: 0;
+
+}
+
+p#discou {
+
+  margin-right: 0;
+
+    display: inline-block;
+
+    font-size: 18px;
+
+    margin-left: 0;
+
+}
+
+p#cod {
+
+    display: none;
+
+}
+
+p#nett {
+
+    width: 100%;
+
+}
+
+span.botm {
+
+    font-size: 13px;
+
+}
+p#mygrant {
+    margin: 0 !important;
+}
+p#myclientgross {
+    margin: 0 !important;
+}
+p#customvl {
+    font-size: 18px;
+    margin: 0 !IMPORTANT;
+    display: inline-block;
+}
+p#discou {
+    display: none;
+}
+.range-ovalue {
+    position: absolute;
+    top: -50%;
+}
+.range-ovalue span {
+    width: 30px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    background: #03a9f4;
+    color: #fff;
+    font-size: 12px;
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    border-radius: 6px;
+}
+.range-ovalue span:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 10px solid #03a9f4;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    margin-top: -1px;
+}
+.col-sm-1.infromation {
+    padding: 4px;
+    display: flex;
+    align-items: center;
+}
+
+
+.input-group.mb-3
+{    display: flex;
+}
+form.container.mt-5 {
+
+
+   }
+   p.text {
+     margin-top: 1px !important;
+     }
+   p#netclientcost {
+       margin-left: 48px !important;
+       }
+     .input-group-prepend
+       {    margin: 4px 4px;
+       }
+form.container.mt-5 {
+}
+label.nopanel {
+    padding-right: 21px;
+}
+p#alt {
+    color: red;
+    margin-bottom: 27px !important;
+   font-size: 14px;
+    margin-top: -6px !important;
+}
+p#productsname {
+    display: none;
+
+}
+input#qty_input {
+    max-width: 81px;
+    height: 34px;
+}
+
+button#minus-btn {
+    width: 20px;
+    padding: 0;
+    margin: 0;
+}
+button#plus-btn {
+    padding: 0;
+    margin: 0;
+    width: 20px;
+}
+select.products {
+    height: 50px;
+    font-size: 14px;
+}
+select#noyear {
+   height: 37px;
+
+}
+label.nopanel {
+    font-size: 15px;
+    padding-right: 21px;
+}
+form.container.mt-5 label {
+    font-size: 16px;
+}
+div#Calc label {
+      padding: 10px 0px;
+}
+.text {
+    font-size: 16px;
+    float: left;
+    display: inline-block;
+  }
+  div#grant {
+   font-size: 16px;
+    margin-left: 0px;
+    display: inline-block;
+
+}
+p#expcost {
+    font-size: 16px;
+}
+p#clientgross {
+    font-size: 16px;
+}
+p#lessgrant {
+    font-size: 16px;
+
+}
+.pym {
+    font-size: 16px;
+}
+.uppay {
+    font-size: 24px;
+    margin-left: 0px;
+    padding: 0px;
+}
+p#upfrontpaymentpr {
+    margin-left: 0px !important;
+}
+p#detailpr {
+    margin-left: 7% !important;
+}
+p#upfrontpayment {
+    font-size: 16px;
+      margin-left: 51px;
+
+}
+p#detail {
+    font-size: 16px;
+   margin-left: 51px;
+}
+p#finance {
+    border: 1px solid black;
+    display: inline-block;
+}
+.pumtamout {
+    font-size: 16px;
+   display: inline-block;
+
+}
+p#finance {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    font-size: 16px;
+}
+.slectyear label {
+
+    font-size: 16px !important;
+}
+p#ye {
+    font-size: 16px;
+    padding: 0px;
+  margin: 0px;
+}
+  p#Monthlyent {
+    font-size: 16px;
+    padding:  0px;
+  margin: 0px;
+}
+p#kw {
+    font-size: 16px;
+}
+input#qtypr_input {
+    max-width: 78px;
+}
+
+
+button#minus-btn2 {
+
+
+    margin: 0;
+
+
+}
+
+
+button#plus-btn2 {
+
+
+    margin: 0;}
+
+
+p {
+
+
+    font-size: 16px;
+
+
+    margin: 10px;
+
+
+}
+
+
+select#noyearpr {
+
+
+    font-size: 16px;
+
+
+    height: 49px;
+
+
+    width: 95px;
+
+
+}
+
+
+p {
+
+}
+
+
+.text {
+
+
+    margin-left: 2px;
+
+
+}
+
+
+p#financepr {
+
+
+    border: 1px solid;
+
+
+    display: inline-block;
+
+
+    margin-top: -2px;
+
+
+    margin-bottom: 24px;
+
+
+}
+
+
+.textpr {
+
+
+    display: inline-block;
+
+
+    float: left;
+
+
+}
+
+
+.bottemp {
+
+
+    width:100%;
+
+
+}
+
+
+.text2 {
+
+
+    font-size: 22px !important;
+
+
+    margin: 13px 0;
+
+
+}
+
+
+label.nopanel {
+
+
+    float: left;
+
+
+}
+
+
+div#Calc {
+
+
+     border-right: none;
+
+
+    width: 100%;
+
+
+    float: left;
+
+
+}
+
+
+.rightpr {
+
+
+    float: left;
+
+
+    width: 726px;
+
+}
+
+
+.leftsidee {
+
+
+      padding: 7px;
+
+
+        border: 1px solid;
+
+
+    float: right;
+
+
+    height: 322px;
+
+
+    width: 29%;
+
+
+      margin-top: 18%;
+
+
+}
+
+
+p#demo {
+
+
+    display: inline-block;
+
+
+}
+
+p#kw {
+
+
+    display: inline-block;
+
+
+    font-size: 36px;
+
+
+      margin: 6px !important;
+
+
+}
+
+
+.customecal {
+
+
+    margin-top: 8% !important;
+
+
+}
+
+
+div#grant {
+
+}
+
+
+div#Calc .text {
+
+}
+
+
+p#expcost {
+
+}
+
+
+p#clientgross {
+
+    font-size: 16px;
+
+
+  margin: 0px;
+
+
+}
+
+
+p#lessgrant {
+
+
+    display: inline-block;
+
+}
+
+
+p#detail {
+
+
+    display: inline-block;
+
+}
+
+.pym {
+
+
+    margin-left: 0%;
+
+
+    font-size: 16px;
+
+
+}
+
+
+.uppay {
+
+
+    font-size: 18px;
+
+
+    margin-left: 0px;
+
+
+    padding: 0px;
+
+
+}
+
+
+p#upfrontpayment {
+
+
+    margin-left: 0px !important;
+
+
+}
+
+
+p#detail {
+
+
+    margin-left: 0px !important;
+
+
+    margin-bottom: 36px;
+
+
+}
+
+
+.pumtamout {
+
+}
+
+
+.slectyear label {
+
+
+    font-size: 16px !important;
+
+}
+
+
+select#noyear {
+
+      width: 85px;
+
+
+    margin-left: 8% !important;
+
+
+}
+
+.secpro {
+
+
+    width: 50%;
+
+
+    float: left;
+
+
+}
+
+
+.leftsideepr {
+
+
+      padding: 7px;
+
+
+    border: 1px solid;
+
+
+    width: 29%;
+
+
+    height: 363px;
+
+
+    float: right;
+
+
+      margin-top: -87px;
+
+
+}
+
+
+select.products {
+
+
+    margin-bottom: 0px;
+
+
+      margin-left: 50px;
+
+
+}
+
+
+.systemsizekw .text {
+
+
+    margin-left: 0%;
+
+
+}
+
+
+p#grantvalue {
+
+
+    display: inline-block;
+
+
+    margin-top: 1px;
+
+
+    margin-left: 31px !important;
+
+
+}
+
+
+.customeproducts2 {
+
+
+    padding-bottom: 42px;
+
+
+}
+
+
+p#extracostonpanel {
+
+
+       margin-left: 26% !important;
+
+
+    display: inline-block;
+
+
+    width: 50%;
+
+
+}
+
+
+.secpro p.text {
+
+
+    margin-top: 18px !important;
+
+
+    margin-left: 40% !important;
+
+
+}
+
+
+p#costnogrant {
+
+
+        display: inline-block;
+
+
+    margin-left: 139px !important;
+
+
+}
+
+
+p#netclientcost {
+
+
+display: inline-block;
+
+
+    margin-left: 26% !important;
+
+
+    margin-bottom: 13%;
+
+
+}
+
+
+p#upfrontpaymentpr {
+
+
+    margin-left: 31% !important;
+
+
+}
+
+
+p#detailpr {
+
+
+   display: inline-block;
+
+
+    margin-bottom: 11%;
+
+
+    margin-left: 31% !important;
+
+
+}
+
+
+.textpr {
+
+
+    margin-left: 29%;
+
+
+}
+
+
+.text2 {
+
+}
+
+
+.secpro label {
+
+
+    margin-left: 35%;
+
+
+}
+
+
+select#noyearpr {
+
+
+    margin-left: 5%;
+
+
+}
+
+
+p#systemsixekw {
+
+
+      margin: 6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p#alertcl {
+
+
+    display: inline-block;
+
+
+}
+
+
+p#Monthlyentpr {
+
+}
+
+p#financepr {
+
+
+    padding: 9px;
+
+
+}
+
+
+div#grant {
+
+
+    color: black;
+
+
+    margin-left: 0px;
+
+
+}
+
+p#expcost {
+
+
+    display: inline-block;
+
+
+  margin: 10px 0px 10px 0px;;
+
+
+}
+
+
+.extracosttext {
+
+
+      margin-left: -5px;
+
+
+    display: inline-block;
+
+
+      width: 50%;
+
+
+}
+
+
+p.cost {
+
+
+       display: inline-block;
+
+
+    padding: 10px 0px;
+
+
+margin: 0px;
+
+
+}
+
+
+p#clientgross {
+
+    display: inline-block;
+
+
+}
+
+
+p.nocost {
+    display: inline-block;
+
+
+}
+
+
+p.lessgranttext {
+
+
+      margin-left: -5px !IMPORTANT;
+
+
+    display: inline-block;
+
+
+}
+
+
+p#upfrontpayment {
+
+
+    display: inline-block;
+
+
+}
+
+
+p.dic {
+
+
+      margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p#upfrontpaymentto {
+
+
+      margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p.dictext {
+
+
+      margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p.detext {
+
+
+      margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p#detailone {
+
+
+      margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p#detailto {
+
+
+      margin-left: -6px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+p.withg {
+
+
+    display: inline-block;
+
+
+    margin-left: -6px !important;
+
+
+}
+
+
+p.yetext {
+
+
+    display: inline-block;
+
+}
+
+
+p#ye {
+
+    display: inline-block;
+
+
+}
+
+
+p#Monthlyent {
+
+    display: inline-block;
+
+}
+
+
+p.monthtext {
+
+
+    display: inline-block;
+
+}
+
+
+p.costtext {
+
+
+    display: inline-block;
+
+
+    margin-left: 1px !important;
+
+
+    margin-top: 11px;
+
+
+}
+
+
+p.costnograntto {
+
+
+    display: inline-block;
+
+
+    margin-left: -4px !important;
+
+
+}
+
+
+p.netclientgrosstext {
+
+
+    display: inline-block;
+
+
+    margin-left: -1px !important;
+
+
+}
+
+
+p#upfrontpaymentpr {
+
+
+    display: inline-block;
+
+
+}
+
+
+p.dictoo {
+
+
+    margin-left: -4px !important;
+
+
+    display: initial;
+
+
+}
+
+
+p#upfrontpaymentprto {
+
+
+    display: inline-block;
+
+
+    margin-left: -5px !important;
+
+
+}
+
+
+p.withtext {
+
+
+    display: inline-block;
+
+
+    margin-left: -6px !important;
+
+
+}
+
+
+p.granttext {
+
+
+    display: inline-block;
+
+
+    margin-left: -2px !important;
+
+
+}
+
+
+p#detailprone {
+
+
+    display: inline-block;
+
+
+    margin-left: -6px !important;
+
+
+}
+
+
+p#detailprto {
+
+
+    display: inline-block;
+
+
+    margin-left: -3px !important;
+
+
+}
+
+
+p#detailprtext {
+
+
+    display: inline-block;
+
+
+    margin-left: -8px !important;
+
+
+}
+
+
+p#yepr {
+
+
+    display: inline-block;
+
+
+}
+
+
+p.monthtext {
+
+
+    display: inline-block;
+
+}
+
+
+p#Monthlyentpr {
+
+
+    display: inline-block;
+
+}
+
+
+p.prtext {
+
+
+    margin-left: 3px !important;
+
+
+    display: inline-block;
+
+
+}
+
+
+.yeandno {
+
+}
+
+
+label.choice {
+
+
+    margin: 0 !important;
+
+
+}
+
+
+p.morein {
+
+
+    display: inline-block;
+
+
+    color: black !important;                padding: 0px;margin: 0;
+
+
+}
+
+
+.home-calculator .form-check input[type=radio] {
+
+
+  padding: 0.5em;
+
+
+  -webkit-appearance: none;
+
+
+  /*outline: 0.1em solid black;
+
+
+  outline-offset: 0.1em;*/
+
+
+}
+
+.home-calculator .form-check input[type=radio]:checked {
+
+
+  display: inline-block;
+
+
+  background-color: #000;
+
+
+}
+
+
+.input-group.mb-3 {
+
+
+    width: 50%;
+
+
+    display: flex;
+
+
+      padding-left: 14px;
+
+
+}
+
+
+.container.mt-5 {
+
+
+    margin: 0 !important;
+
+
+}
+
+
+.prod2 {
+
+
+    width: 726px;
+
+
+    border-right: 1px solid;
+
+
+}
+
+.secpro {
+
+
+    width: 711px !important;
+
+
+    float: left;
+
+
+    border-right: 1px solid;
+
+
+}
+
+
+.need {
+
+
+    margin-top: 11px;
+
+
+}
+
+
+.free {
+
+
+    margin-top: 25px;
+
+
+}
+
+@media (min-width: 320px) and (max-width: 991px){
+
+
+  .leftsidee {
+
+
+    margin-right: 42px;
+
+
+    padding: 7px;
+
+
+    border: 1px solid;
+
+
+    float: right;
+
+
+    height: 322px;
+
+
+    width: 100%;
+
+
+    margin-top: 0;
+
+
+}
+
+
+.leftsideepr {
+
+
+    padding: 7px;
+
+
+    border: 1px solid;
+
+
+    width: 100%;
+
+
+    height: 363px;
+
+
+    float: right;
+
+
+    margin-right: 42px;
+
+
+    margin-top: 0px;
+
+
+}
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px){
+
+
+.rightpr {
+
+
+    width: 515px;
+
+}
+
+
+div#Calc {
+
+
+    border-right: 1px solid;
+
+
+    width: 500px;
+
+
+    float: left;
+
+
+}
+
+
+.prod2 {
+
+
+    width: 515px;
+
+
+    border-right: 1px solid;
+
+
+}
+
+
+.secpro {
+
+
+    width: 500px !important;
+
+
+    float: left;
+
+
+    border-right: 1px solid;
+
+
+}
+
+
+p#upfrontpaymentpr {
+
+
+    margin-left: 28% !important;
+
+
+}
+
+
+p#detailpr {
+
+
+    display: inline-block;
+
+
+    margin-bottom: 11%;
+
+
+    margin-left: 28% !important;
+
+
+}
+
+
+select#noyearpr {
+
+
+    margin-left: 10%;
+
+
+}
+
+
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+
+select.products {
+
+
+    margin-bottom: 41px;
+
+
+    margin-left: 50px;
+
+
+    width: 125px;
+
+
+}
+
+
+.yeandno {
+
+
+    margin-left: 6%;
+
+
+}
+
+
+p#extracostonpanel {
+
+
+    margin-left: 6% !important;
+
+
+    display: inline-block;
+
+
+    width: 50%;
+
+
+}
+
+
+p#costnogrant {
+
+
+    display: inline-block;
+
+
+    margin-left: 0% !important;
+
+
+}
+
+
+p#netclientcost {
+
+
+    display: inline-block;
+
+
+    margin-left: 7% !important;
+
+
+    margin-bottom: 13%;
+
+
+}
+
+
+.uppay {
+
+
+    font-size: 16px;
+
+
+    margin-left: 0px;
+
+
+    padding: 10px 0px;
+
+
+}
+
+
+p#upfrontpaymentpr {
+
+
+    margin-left: 37px !important;
+
+
+    width: auto;
+
+
+}
+.rightpr {
+
+
+    width: 100%;
+
+
+    border-right: none !important;
+
+
+}
+
+
+div#Calc {
+
+
+    border-right: none;
+
+
+    width: 100%;
+
+
+    float: left;
+
+
+}
+
+
+.leftsidee {
+
+
+    margin-right: 0;
+
+
+}
+
+
+.prod2 {
+
+
+    width: 100%;
+
+
+    border-right: none;
+
+
+}
+
+
+.secpro {
+
+
+    width: 100% !important;
+
+
+    float: left;
+
+
+    border-right: none;
+
+
+}
+
+
+.boxed div.section .section_inner, .carousel-inner .slider_content_outer, .container_inner, .container_inner nav.content_menu, .full_width .parallax_content, .steps_holder_inner, div.grid_section .section_inner, nav.content_menu ul {
+
+
+    width: auto;
+
+
+}
+
+
+}
+
+.content {
+
+
+            position: absolute;
+
+
+            top: 26%;
+
+
+            left: 50%;
+
+
+            transform: translate(-50%, -50%);
+
+
+            width: 500px;
+
+
+            height: 326px;
+
+
+            text-align: center;
+
+
+            background-color: #e8eae6;
+
+
+            box-sizing: border-box;
+
+
+            padding: 32px 10px;
+
+
+            z-index: 100;
+
+
+            display: none !important;
+
+
+            /*to hide popup initially*/
+
+
+        }
+
+
+        .close-btn {
+
+
+    position: absolute;
+
+
+    right: 23px;
+
+
+    top: 15px;
+
+
+    background-color: black;
+
+
+    color: white;
+
+
+    border-radius: 41%;
+
+
+    padding: 1px 6px;
+
+
+}
+
+.range-wrap{
+
+
+    margin-right: 23px;
+
+    margin-top: 24px;
+    width: 100%;
+
+
+    position: relative;
+
+
+}
+
+
+.range-value{
+
+
+  position: absolute;
+
+
+  top: -50%;
+
+
+}
+
+
+.range-value span{
+
+
+  width: 30px;
+
+
+  height: 24px;
+
+
+  line-height: 24px;
+
+
+  text-align: center;
+
+
+  background: #03a9f4;
+
+
+  color: #fff;
+
+
+  font-size: 12px;
+
+
+  display: block;
+
+
+  position: absolute;
+
+
+  left: 50%;
+
+
+  transform: translate(-50%, 0);
+
+
+  border-radius: 6px;
+
+
+}
+
+
+input#range {
+
+
+    width: 100%;
+
+
+    background: cornflowerblue;
+
+
+    height: 4px;
+
+
+    border-radius: 40px;
+
+
+}
+
+
+.range-value span:before{
+
+
+  content: "";
+
+
+  position: absolute;
+
+
+  width: 0;
+
+
+  height: 0;
+
+
+  border-top: 10px solid #03a9f4;
+
+
+  border-left: 5px solid transparent;
+
+
+  border-right: 5px solid transparent;
+
+
+  top: 100%;
+
+
+  left: 50%;
+
+
+  margin-left: -5px;
+
+
+  margin-top: -1px;
+
+
+}
+
+
+.input-group.mb-3 {
+
+
+    display: none;
+
+
+}
+
+
+label.nopanel {
+
+
+    display: none;
+
+
+}
+
+
+.bottemp .range-wrap {
+
+
+    margin-right: 19px;
+
+
+    width: 382px;
+
+
+}
+
+
+p#democust {
+
+  font-size: 36px;
+
+    display: inline-block;
+
+
+}
+
+
+button.morein {
+
+
+    background: transparent;
+
+
+    border: navajowhite;
+
+
+    color: blue;
+
+
+}
+
+input:focus{
+
+
+        outline: none;
+
+
+    }
+
+
+    .slider {
+
+
+        -webkit-appearance: none;
+
+
+        --range: calc(var(--max) - var(--min));
+
+
+        --ratio: calc((var(--val) - var(--min))/var(--range));
+
+
+        --sx: calc(.5*1.5em + var(--ratio)*(100% - 1.5em));
+
+
+        margin: 0;
+
+
+        padding: 0;
+
+
+        width: 100%;
+
+
+        height: 1.5em;
+
+
+        background: transparent;
+
+
+        font: 1em/1 arial, sans-serif;
+
+
+        border: none;
+
+
+    }
+
+
+    .slider, .slider::-webkit-slider-thumb {
+
+
+        -webkit-appearance: none;
+
+
+    }
+
+
+    .slider::-webkit-slider-runnable-track {
+
+
+        box-sizing: border-box;
+
+
+        border: none;
+
+
+        width: 1.5em;
+
+
+        height: 1px;
+
+
+        background: #ccc;
+
+
+    }
+
+
+    .js .slider::-webkit-slider-runnable-track {
+
+
+        background: linear-gradient(#7b1c1a, #7b1c1a) 0/var(--sx) 100% no-repeat #ccc;
+
+
+    }
+
+
+    .slider::-moz-range-track {
+
+
+        box-sizing: border-box;
+
+
+        border: none;
+
+
+        height: 0.5em;
+
+    }
+
+    .slider::-moz-range-progress {
+
+
+        height: 0.5em;
+
+
+        background: #7b1c1a;
+
+
+    }
+
+
+    .slider::-ms-fill-lower {
+
+
+        height: 0.5em;
+
+
+        background: #7b1c1a;
+
+
+    }
+
+
+    .slider::-webkit-slider-thumb {
+
+
+    background: url(https://solarrooftop.gov.in/img/common/range_slider/sprite-skin-modern.png)
+
+
+    repeat-x;
+
+
+    width: 11px;
+
+
+    height: 24px;
+
+
+    color: black;
+
+
+    margin-top: 2px;
+
+
+    top: 30px !important;
+
+
+    background-position: 0 -120px;
+
+
+    /* position: absolute; */
+
+
+}
+
+    .slider::-ms-thumb {
+
+
+        margin-top: 0;
+
+
+        box-sizing: border-box;
+
+
+        border: none;
+
+
+        width: 1.5em;
+
+
+        height: 1.5em;
+
+
+        border-radius: 50%;
+
+
+        background: #7b1c1a;
+
+
+    }
+
+
+    .slider::-ms-tooltip {
+
+
+        display: block;
+
+
+    }
+
+
+    #tickmarks {
+
+      width: 100%;
+
+    display: flex;
+
+
+    justify-content: space-between;
+
+
+    padding: 0 0px;
+
+
+    /* margin-left: -9px; */
+
+
+}
+
+#tickmarks p {
+
+
+    color: black !important;
+
+
+    font-size: 11px;
+
+
+    position: relative;
+
+
+    display: flex;
+
+
+    justify-content: center;
+
+
+    text-align: center !important;
+
+
+    width: 1px;
+
+
+    background: #D3D3D3;
+
+
+    height: 0;
+
+
+    line-height: 2.5;
+
+
+    margin: 0 0 20px 0;
+
+
+    padding-top: 9px;
+
+
+}
+
+
+p#exp {
+
+
+    margin-right: 0 !important;
+
+
+}
+
+
+input#rangey {
+
+
+    width: 100%;
+
+
+    background: cornflowerblue;
+
+
+    height: 4px;
+
+
+    border-radius: 40px;
+
+
+}
+
+
+#qoutefromcu {
+
+
+      position: absolute;
+
+
+      top: 50%;
+
+
+      left: 50%;
+
+
+      transform: translate(-50%, -50%);
+
+
+      width: 500px;
+
+
+      height: 272px;
+
+
+      text-align: center;
+
+
+      background-color: #e8eae6;
+
+
+      box-sizing: border-box;
+
+
+      padding: 10px;
+
+
+      z-index: 100;
+
+
+      display: none;
+
+
+      /*to hide popup initially*/
+
+
+    }
+
+    .close-btn {
+
+
+      position: absolute;
+
+
+      right: 20px;
+
+
+      top: 15px;
+
+
+      background-color: black;
+
+
+      color: white;
+
+
+      border-radius: 50%;
+
+
+      padding: 4px;
+
+
+    }
+
+
+    /* input#email {
+
+
+    margin-left: 78px;
+
+
+} */
+
+
+/* input#name {
+
+
+    margin-left: 72px;
+
+
+} */
+
+
+.fromdiv {
+
+
+  display: flex;    padding: 14px;
+
+
+}
+
+
+form#fromofcal {
+
+
+    display: flex;
+
+
+    flex-direction: column;
+
+
+    align-content: center;
+
+
+    align-items: center;
+
+
+    width: 100%;
+
+
+}.fromclaclutionmain {
+    background: none;
+    width: 100%;
+
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+input[type="email"], input[type="number"], input[type="text"], textarea, .form-control, select, .porto-wpforms-inline .wpforms-field-large {
+    height: 40px !important;
+    border: 1px solid !important;
+    width: 100%;
+    background-color: #fff;
+    color: #777;
+    border-color: var(--porto-input-bc);
+}
+
+p.sub {
+
+
+      color: white;
+
+
+    padding: 7px 10px;
+
+
+    width: 33%;
+
+
+    border: 1px solid #50c3e0;
+
+
+    font-size: 20px;
+
+
+    background: #50c3e0;
+
+
+}
+
+
+button.fromsb:hover {
+
+
+    background: no-repeat;
+
+
+}
+
+
+button.fromsb {
+
+
+    background: no-repeat;
+
+
+    width: 100%;
+
+
+    color: black;
+
+
+    border: none;
+
+
+    display: flex;
+
+
+    justify-content: center;
+
+
+}
+
+
+.form-check input:invalid {
+
+
+    height: 50px;
+
+
+    border: 1px solid;
+
+
+    width: 264px;
+
+
+}
+
+
+.fromdiv label {
+
+
+   width: 160px;    font-size: 18px;
+
+
+}
+
+
+button#showfrom {
+
+
+    display: flex;
+
+
+    width: 100%;
+
+
+    justify-content: center;
+
+    border: navajowhite;
+
+
+}
+
+
+button#showfrom p {
+
+
+    color: white;
+
+
+    background: #50c3e0;
+
+
+    padding: 10px;
+
+
+    display: flex;
+
+
+    border: 1px solid #50c3e0;
+
+
+    width: 28%;
+
+
+    justify-content: center;
+
+
+}
+
+
+input[type="email"], input[type="number"],input[type="text"], textarea, .form-control, select, .porto-wpforms-inline .wpforms-field-large {
+
+
+    height: 40px !important;
+
+
+    border: 1px solid !important;
+
+
+    width: 100% !important;
+
+
+    background-color: #fff;
+
+
+    color: #777;
+
+
+    border-color: var(--porto-input-bc);
+
+
+}
+
+
+p.mod {
+
+
+    color: burlywood;
+
+
+    font-size: 16px;
+
+
+}
+
+
+button.GFG {
+
+
+    color: burlywood;
+
+
+    border: none;
+
+
+    background: transparent;
+
+
+    font-size: 17px;
+
+
+}
+.page-id-6 label.form-label.subheading {
+    color: #014074;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
+
+.home-calculator{}
+
+.home-calculator h2{ color: #ffffff; font-weight: bold; text-transform: uppercase;}
+
+.home-calculator h3{ color: #014074; font-weight: bold; text-align: center; text-transform: uppercase; margin-bottom: 20px;}
+
+.home-calculator h3::after{ border: none;}
+
+.home-calculator > .card{background-color:transparent; border: none;}
+
+.home-calculator ul#progressbar{}
+
+.home-calculator ul#progressbar li {background: #014074;
+
+padding: 12px 40px;
+
+font-size: 16px;
+
+color: #ffffff;
+
+margin-right: 5px;
+
+font-weight: bold;
+
+text-transform: uppercase;}
+
+
+
+.home-calculator ul#progressbar li.active {
+
+    
+
+    background: #fdc751;
+
+    padding: 12px 40px;
+
+font-size: 16px;
+
+color: #ffffff;
+
+margin-right: 5px;
+
+font-weight: bold;
+
+text-transform: uppercase;
+
+}
+
+
+
+.home-calculator label.form-check-label{font-size: 18px;}
+
+.dottedbox{border: 1px dashed #fff; padding: 30px; overflow: hidden;}
+
+
+
+
+
+.home-calculator #tickmarks p {
+
+
+
+    color: #ffffff !important;
+
+    font-size: 14px;
+
+    position: relative;
+
+    display: flex;
+
+justify-content: center;
+
+    text-align: center !important;
+
+    width: 1px;
+
+    background: #ffffff;
+
+    height: 0;
+
+    line-height: 2.5;
+
+    margin: 0 0 20px 0;
+
+    padding-top: 9px;
+
+
+
+
+
+}
+
+.home-calculator .range-wrap{ width:100%;}
+
+
+
+.home-calculator .spayment{}
+
+.home-calculato .stepfour {color: #000000;}
+
+.home-calculator .stepfour .r-resultbox{background: #014074; padding: 15px; font-size: 22px;}
+
+.home-calculator .stepfour .customec{color: #ffffff;}
+
+.home-calculator .stepfour .customec div#grant{ color: #fff; font-weight: 600; font-size: 22px;}
+
+.home-calculator .stepfour .customec p#mygrant { font-size: 21px; font-weight: 600;}
+
+.home-calculator .stepfour .customec p#nett{font-size: 21px; font-weight: 600;}
+
+.home-calculator .stepfour .customec p#lessgrant{font-size: 22px; font-weight: 600;}
+
+.home-calculator .stepfour .customec p#ye{font-size: 22px; font-weight: 600;}
+
+.home-calculator .stepfour .customec p#Monthlyent{font-size: 22px; font-weight: 600;}
+
+.home-calculator .stepfour .customec  p.morein a{color: #ffffff; font-size: 14px;}
+
+.home-calculator .stepfour .customec span.botm{font-size: 16px;}
+
+.home-calculator .stepfour  .customec2{color: #ffffff;}
+
+.home-calculator .stepfour  .customec2 .p-number{}
+
+.home-calculator .stepfour  .customec2 p#seli{margin-bottom: 0px;}
+
+.home-calculator .stepfour  .customec2 .p-number span p#right_energy{}
+
+.home-calculator .stepfour  .customec2 .p-number span p#democust{font-size: 36px; line-height: 42px;}
+
+.home-calculator .stepfour  .customec2 .moncoast span p#Monthlyentto{font-size: 36px;line-height: 42px;}
+
+.home-calculator .stepfour  .customec2 .upcoast p#cto{font-size: 36px;line-height: 42px;}
+
+.home-calculator .stepfour  .customec2 .moncoast span.smalltxt{font-size: 16px;}
+
+.home-calculator .stepfour  .customec2 .generates{}
+
+.home-calculator .stepfour  .customec2 .generates p#kw{line-height: 42px;}
+
+.home-calculator  #exampleModal{}
+
+.home-calculator  #exampleModal h2{color: #002C4F;}
+
+.home-calculator #exampleModal .modal-dialog{margin-top: 8.75rem;}
+
+.home-calculator  #exampleModal .modal-header{padding: 0.5rem 1rem;}
+
+.modal-backdrop.show{ height: auto; z-index: 999999}
+
+.home-calculator .modal{position: absolute;}
+
+.home-calculator .modal-body .col-form-label{text-align: left;}
+
+.home-calculator  .modal-header h2.modal-title{color: #002C4F;}
+
+.home-calculator .modal-dialog{width: 620px;}
+label.form-check-label {
+    color: white;
+}
