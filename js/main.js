@@ -28,6 +28,12 @@ document.getElementById('avologic-range').oninput = function() {
   let cv = jQuery('input[name="my_options"]:checked').val();
   let rv = jQuery('#avologic-range').val();
   updateFields(cv, rv);
+  
+  let country = parseInt(jQuery("#country").val());
+  let gapprove = parseInt(jQuery("#lessgrant").text().replace(/[^\w\s]/g, ''));
+  document.getElementById('lessgrant').innerHTML = '€ ' + (gapprove+country).toString();
+  console.log(country);
+  
 };
 // Update data when energy type selected.
 jQuery('input[name="my_options"]').change(function(){

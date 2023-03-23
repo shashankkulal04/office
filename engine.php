@@ -1,6 +1,23 @@
 <?php
 require('fpdf.php');
-
+function Send() {
+  $to_email = "kulal.shashank51@gmail.com";
+  $subject = "Test email to send from XAMPP";
+  $body = "Hi, This is test mail to check how to send mail from Localhost Using Gmail ";
+  $headers = "From: sender email";
+  
+  if (mail($to_email, $subject, $body, $headers))
+  
+  {
+      echo "Email successfully sent to $to_email...";
+  }
+  
+  else
+  
+  {
+      echo "Email sending failed!";
+  }
+}
 // $namenew, $pno, $eircode, $contry, $emailnew, $selectedCountry, $f, $kw, $cm2, $mygrant, $nett
 function Test($namenew = 'Shashank Kulal', $pno = '7062102545', $eircode = '5257', $contry = 'India', $emailnew = 'shashankkulal@live.in', $selectedCountry = 'India', $f = '6', $kw = '2800', $cm2 = '3600', $mygrant = '2400', $nett = '500') {
     $date = date('d-m-y');

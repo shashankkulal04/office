@@ -27,6 +27,7 @@ register_deactivation_hook(__FILE__, 'solar_deactivation');
 
 require_once('engine.php');
 //Test();
+Send();
 
 // register jquery and style on initialization
 add_action('init', 'register_script');
